@@ -1,0 +1,21 @@
+.logic {
+    background-color: #012a30;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+.coustom-box {
+    box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
+}
+
+h1 {
+    color: #17a2b8;
+}
+
+body {
+    font-family: "Titillium Web", sans-serif;
+    background-color: #0001;
+}
+
+.puplic {
+    background-color: #012a30;
+}
